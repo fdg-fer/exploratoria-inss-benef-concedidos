@@ -8,6 +8,6 @@ Pareto de que representa 80% das concessões dentro todos os tipos aposentadoria
 
 Em abril/2024 4 benefícios representam 80%* do toatal de concessões:
 
-![alt text](pareto_benef_conced.png)
+![alt text](imagens/pareto_benef_conced.png)
 
 # exploratoria-inss-benef-concedidos
